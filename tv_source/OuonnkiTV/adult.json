@@ -7,34 +7,6 @@
     "isEnabled": true
   },
   {
-    "id": "小鸡资源",
-    "name": "小鸡资源",
-    "url": "https://api.xiaojizy.live/provide/vod",
-    "detailUrl": "https://api.xiaojizy.live/provide/vod",
-    "isEnabled": true
-  },
-  {
-    "id": "玉兔资源",
-    "name": "玉兔资源",
-    "url": "https://apiyutu.com/api.php/provide/vod",
-    "detailUrl": "https://apiyutu.com/api.php/provide/vod",
-    "isEnabled": true
-  },
-  {
-    "id": "老色逼",
-    "name": "老色逼",
-    "url": "https://apilsbzy1.com/api.php/provide/vod",
-    "detailUrl": "https://apilsbzy1.com/api.php/provide/vod",
-    "isEnabled": true
-  },
-  {
-    "id": "精品资源",
-    "name": "精品资源",
-    "url": "https://www.jingpinx.com/api.php/provide/vod",
-    "detailUrl": "https://www.jingpinx.com/api.php/provide/vod",
-    "isEnabled": true
-  },
-  {
     "id": "滴滴资源",
     "name": "滴滴资源",
     "url": "https://api.ddapi.cc/api.php/provide/vod",
@@ -49,6 +21,27 @@
     "isEnabled": true
   },
   {
+    "id": "精品资源",
+    "name": "精品资源",
+    "url": "https://www.jingpinx.com/api.php/provide/vod",
+    "detailUrl": "https://www.jingpinx.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "玉兔资源",
+    "name": "玉兔资源",
+    "url": "https://apiyutu.com/api.php/provide/vod",
+    "detailUrl": "https://apiyutu.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "小鸡资源",
+    "name": "小鸡资源",
+    "url": "https://api.xiaojizy.live/provide/vod",
+    "detailUrl": "https://api.xiaojizy.live/provide/vod",
+    "isEnabled": true
+  },
+  {
     "id": "麻豆视频",
     "name": "麻豆视频",
     "url": "https://91md.me/api.php/provide/vod",
@@ -56,10 +49,10 @@
     "isEnabled": true
   },
   {
-    "id": "百万资源",
-    "name": "百万资源",
-    "url": "https://api.bwzyz.com/api.php/provide/vod",
-    "detailUrl": "https://api.bwzyz.com/api.php/provide/vod",
+    "id": "老色逼",
+    "name": "老色逼",
+    "url": "https://apilsbzy1.com/api.php/provide/vod",
+    "detailUrl": "https://apilsbzy1.com/api.php/provide/vod",
     "isEnabled": true
   },
   {
@@ -70,10 +63,10 @@
     "isEnabled": true
   },
   {
-    "id": "鲨鱼资源",
-    "name": "鲨鱼资源",
-    "url": "https://shayuapi.com/api.php/provide/vod",
-    "detailUrl": "https://shayuapi.com/api.php/provide/vod",
+    "id": "百万资源",
+    "name": "百万资源",
+    "url": "https://api.bwzyz.com/api.php/provide/vod",
+    "detailUrl": "https://api.bwzyz.com/api.php/provide/vod",
     "isEnabled": true
   },
   {
@@ -81,6 +74,13 @@
     "name": "souavZY",
     "url": "https://api.souavzyw.net/api.php/provide/vod",
     "detailUrl": "https://api.souavzyw.net/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "鲨鱼资源",
+    "name": "鲨鱼资源",
+    "url": "https://shayuapi.com/api.php/provide/vod",
+    "detailUrl": "https://shayuapi.com/api.php/provide/vod",
     "isEnabled": true
   },
   {
@@ -98,24 +98,10 @@
     "isEnabled": true
   },
   {
-    "id": "乐播资源",
-    "name": "乐播资源",
-    "url": "https://lbapi9.com/api.php/provide/vod",
-    "detailUrl": "https://lbapi9.com/api.php/provide/vod",
-    "isEnabled": true
-  },
-  {
     "id": "番号资源",
     "name": "番号资源",
     "url": "http://fhapi9.com/api.php/provide/vod",
     "detailUrl": "http://fhapi9.com/api.php/provide/vod",
-    "isEnabled": true
-  },
-  {
-    "id": "黑料资源",
-    "name": "黑料资源",
-    "url": "https://www.heiliaozyapi.com/api.php/provide/vod",
-    "detailUrl": "https://www.heiliaozyapi.com/api.php/provide/vod",
     "isEnabled": true
   },
   {
@@ -126,10 +112,10 @@
     "isEnabled": true
   },
   {
-    "id": "AIvin",
-    "name": "AIvin",
-    "url": "http://lbapiby.com/api.php/provide/vod",
-    "detailUrl": "http://lbapiby.com/api.php/provide/vod",
+    "id": "乐播资源",
+    "name": "乐播资源",
+    "url": "https://lbapi9.com/api.php/provide/vod",
+    "detailUrl": "https://lbapi9.com/api.php/provide/vod",
     "isEnabled": true
   },
   {
@@ -144,6 +130,20 @@
     "name": "jkun资源",
     "url": "https://jkunzyapi.com/api.php/provide/vod",
     "detailUrl": "https://jkunzyapi.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "黑料资源",
+    "name": "黑料资源",
+    "url": "https://www.heiliaozyapi.com/api.php/provide/vod",
+    "detailUrl": "https://www.heiliaozyapi.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "AIvin",
+    "name": "AIvin",
+    "url": "http://lbapiby.com/api.php/provide/vod",
+    "detailUrl": "http://lbapiby.com/api.php/provide/vod",
     "isEnabled": true
   },
   {
